@@ -1,8 +1,4 @@
 theme: jekyll-theme-architect
-language: zh-CN
+show_downloads: true
 title: 'Shuqian Homepage'
 description: '正在搭建。。。'
-webrick:
-  headers:
-    My-Header: ShuQian
-    My-Other-Header: 小树谦谦谦
