@@ -2,7 +2,7 @@ theme: jekyll-theme-architect
 language: zh-CN
 title: 'Shuqian Homepage'
 description: '正在搭建。。。'
-webrick: 222
-  headers: 111
+webrick:
+  headers:
     My-Header: ShuQian
     My-Other-Header: 小树谦谦谦
